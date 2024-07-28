@@ -70,6 +70,13 @@ Upon running the program, you'll be presented with a menu of options:
 **9: Exit:** Terminate the program.
 
  ***
+
+## Preview
+ ![ Alt Text](https://github.com/akshitasood08/Real-estate-property-management-system/blob/main/preview%201.png)
+ ![ Alt Text](https://github.com/akshitasood08/Real-estate-property-management-system/blob/main/preview%202.png)
+ ![ Alt Text](https://github.com/akshitasood08/Real-estate-property-management-system/blob/main/preview%203.png)
+ ![ Alt Text](https://github.com/akshitasood08/Real-estate-property-management-system/blob/main/preview%204.png)
+ ***
  
 ## Future Enhancements
 -Implement a graphical user interface (GUI) for improved user experience.
